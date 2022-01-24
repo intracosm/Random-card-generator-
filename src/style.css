@@ -1,1 +1,27 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.card {
+  width: 300px;
+  height: 500px;
+  border-radius: 50px;
+  background: white;
+  margin: 50px auto;
+}
+body {
+  background: green;
+}
+
+.suit {
+  font-size: 40px;
+  padding-top: 55px;
+  height: 35%;
+  padding-right: 200px;
+}
+.num {
+  height: 40%;
+  padding-top: 40px;
+  font-size: 40px;
+}
+.suit-upsidedown {
+  font-size: 40px;
+  padding-left: 200px;
+}
